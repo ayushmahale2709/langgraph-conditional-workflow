@@ -73,4 +73,4 @@ graph = builder.compile()
 # NOW TO RUN
 
 if __name__ == "__main__":
-    result = graph.invoke({"number" : 2})
+    result = graph.invoke({"number" : 5})
